@@ -2,7 +2,7 @@
 
 This repository is a minimal reproduction for an issue with [JetBrains' Test Automation plugin](https://plugins.jetbrains.com/plugin/20175-test-automation)
 
-Issue: <to fill>
+Issue: https://youtrack.jetbrains.com/issue/AQUA-3130/
 
 This repo was created with the following commands:
 
