@@ -1,5 +1,18 @@
 # CypressMountType
 
+This repository is a minimal reproduction for an issue with [JetBrains' Test Automation plugin](https://plugins.jetbrains.com/plugin/20175-test-automation)
+
+Issue: <to fill>
+
+This repo was created with the following commands:
+
+```shell
+npx @angular/cli new cypress-mount-type
+npm run ng add @cypress/schematic -- --component
+```
+
+And is enough to reproduce the issue
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
 
 ## Development server
